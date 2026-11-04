@@ -1,3 +1,0 @@
-test_case,max_absolute_error_K,rmse_K,max_algebraic_residual,max_boundary_error_K,status
-Constant Field,8.526512829121202e-14,4.080494924502842e-14,9.094947017729282e-13,0.0,PASS
-Linear Field,5.684341886080802e-14,2.7537916005929042e-14,9.094947017729282e-13,0.0,PASS
