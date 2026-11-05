@@ -1,0 +1,12 @@
+{
+  "part_a_max_rounding_difference_K": 4.632116170455447e-05,
+  "nodal_C2_C4_max_vector_difference": 0.013810332032304782,
+  "nodal_last_grid_max_vector_change": 0.6151824151983019,
+  "mesh_change_to_formula_change_ratio": 44.54508506814192,
+  "temperature_min_K": 200.0,
+  "temperature_max_K": 350.0,
+  "heater_max_temperature_error_K": 0.0,
+  "max_normalized_residual": 4.643516809656684e-16,
+  "max_relative_heat_balance": 3.9801887997968475e-13,
+  "status": "PASS"
+}

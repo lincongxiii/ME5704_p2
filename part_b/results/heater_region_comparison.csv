@@ -1,0 +1,4 @@
+region,y_min,y_max,left_max_relative_percent,right_max_relative_percent
+Central half,2.25,2.75,0.12426470752460923,0.1355017053782984
+Central three quarters,2.125,2.875,0.4911908429761371,0.5207610835746408
+All non-endpoint samples,2.015625,2.984375,9.188227633405152,9.391077100736696
